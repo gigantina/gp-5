@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Доп игнор файлы для ГП
+dataset/
+models/
+wandb/
+.DS_Store/
