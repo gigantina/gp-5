@@ -224,3 +224,4 @@ dataset/
 models/
 wandb/
 .DS_Store/
+*.log
