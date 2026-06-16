@@ -48,7 +48,8 @@
 **Основная метрика:** map (50-95, 50, 75)
 
 Данные взяли отсюда -- https://www.kaggle.com/datasets/kvnpatel/fruits-vegetable-detection-for-yolov4/data 
----
+
+
 
 ### 2. Выявление подозрительных транзакций
 
@@ -77,7 +78,7 @@
 - Profit (бизнесовая метрика конретно для этой задачи, подробно расскажем во время презентации про эту метрику).
 
 Данные взяли отсюда -- https://www.kaggle.com/datasets/oscarm524/fraud-detection-in-grocery-shopping-transactions
----
+
 
 ## Как это все выглядит для покупателя
 
