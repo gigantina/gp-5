@@ -101,16 +101,12 @@
 Более подробно про бизнес-задачу расписали в файле -- https://docs.google.com/document/d/12JwQuxRLTZtDmTTZEJ7vDUV1lF6jeFNpD-EIEq4OKfs/edit?usp=sharing 
 
 ## Структура локального проекта выглядит следующим образом:
-.gitignore
-ноутбуки
-dataset/
-—train_yolo/
-—test_yolo/
-—val_yolo/
-—train_fraud.csv
-—test_fraud.csv
+1. .gitignore
+2. ноутбуки
+3. dataset/
+train_yolo/ , test_yolo/ , val_yolo/ ,  train_fraud.csv , test_fraud.csv
 
-models/
+4. models/
 — сохраненные модели
 
 https://github.com/github/gitignore/blob/main/Python.gitignore - шаблон файла .gitignore взят отсюда
