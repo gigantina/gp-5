@@ -109,23 +109,4 @@ train_yolo/ , test_yolo/ , val_yolo/ ,  train_fraud.csv , test_fraud.csv
 4. models/
 — сохраненные модели
 
-## Структура локального проекта
-
-## Структура проекта
-
-## Структура проекта
-
-.gitignore <br>
-ноутбуки/ <br>
-
-dataset/ <br>
-train_yolo/ <br>
-test_yolo/ <br>
-val_yolo/ <br>
-train_fraud.csv <br>
-test_fraud.csv <br>
-
-models/ <br>
-сохраненные модели <br>
-
 https://github.com/github/gitignore/blob/main/Python.gitignore - шаблон файла .gitignore взят отсюда
